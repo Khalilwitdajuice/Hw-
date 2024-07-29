@@ -1,0 +1,7 @@
+echo "# Hw-" >> README.md
+git init
+git add README.md
+git commit -m "first bdcommit"
+git branch -M main
+git remote add origin https://github.com/Khalilwitdajuice/Hw-.git
+git push -u origin main
